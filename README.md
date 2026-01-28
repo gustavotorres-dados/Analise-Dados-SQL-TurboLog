@@ -6,7 +6,9 @@ Este projeto simula um ambiente real de logística, focado no controlo de entreg
 ## 📊 Diagrama do Banco de Dados (DER)
 Abaixo está a representação visual das tabelas e seus relacionamentos:
 
-![Diagrama Entidade-Relacionamento TurboLog](der_turbolog.drawio (1).png)
+![Diagrama Entidade-Relacionamento TurboLog](der_turbolog.png)
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 - **Base de Dados:** Microsoft SQL Server
