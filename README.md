@@ -8,8 +8,6 @@ Abaixo está a representação visual das tabelas e seus relacionamentos:
 
 ![Diagrama Entidade-Relacionamento TurboLog](der_turbolog.png)
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 - **Base de Dados:** Microsoft SQL Server
 - **Ferramenta:** SQL Server Management Studio (SSMS)
