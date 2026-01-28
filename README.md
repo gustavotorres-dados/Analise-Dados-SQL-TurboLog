@@ -3,6 +3,11 @@
 ## 📌 Sobre o Projeto
 Este projeto simula um ambiente real de logística, focado no controlo de entregas, monitorização de motoristas e análise de custos de frete. O objetivo principal foi aplicar conceitos avançados de SQL para transformar dados brutos em informações estratégicas de negócio.
 
+## 📊 Diagrama do Banco de Dados (DER)
+Abaixo está a representação visual das tabelas e seus relacionamentos:
+
+![Diagrama Entidade-Relacionamento TurboLog](der_turbolog.drawio (1).png)
+
 ## 🛠️ Tecnologias Utilizadas
 - **Base de Dados:** Microsoft SQL Server
 - **Ferramenta:** SQL Server Management Studio (SSMS)
